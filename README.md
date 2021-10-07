@@ -57,7 +57,7 @@ https://saintseiyaawakening09.com/
 
 📌 **-Proyecto Tesis Técnico Superior en Programación**
 
-Realizada en Diciembre 20219 y Enero de 2020 con #JAVA, #APIRest, #C#, #SQL, utilizando #AndroidStudio y #VisualStudio 
+Realizada en Diciembre 2019 y Enero de 2020 con #JAVA, #APIRest, #C#, #SQL, utilizando #AndroidStudio y #VisualStudio 
 
 **Aplicación desarrollada en #AndroidStudio con #JAVA y #SQL**
 
