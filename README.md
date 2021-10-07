@@ -2,7 +2,7 @@ Hola!!! 👋
 
 Soy Karenina, desarrolladora web full stack.
 Me encanta programar para crear soluciones a medida.
-Actualmente me encuentro profundizando mis conociemientos en el mundo del desarrollo web utilizando nuevas tecnologías.
+Actualmente me encuentro profundizando mis conocimientos en el mundo del desarrollo web utilizando nuevas tecnologías.
 Disfruto mucho de trabajar en equipo aprendiendo de mis compañeros y compartiendoles mis conocimientos, creo que es la mejor manera de crecer profesionalmente. 
 
 Las tecnologías en las que tengo experiencia son las siguientes.
